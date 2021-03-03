@@ -13,15 +13,6 @@ public class PrintF {
 		System.out.printf("%s%d\n","Rua das Gloxínias ", 354 );
 		System.out.printf("CEP 06532-052\n" );
 		System.out.printf("%s%s\n", "São Paulo ", "- SP");
-		System.out.printf("\n%s", "fabiodosreis@bosontreinamentos.com.br");
-		
-		
-
-		
-		
+		System.out.printf("\n%s", "fabiodosreis@bosontreinamentos.com.br");		
 	}
-
-	
-
-
 }
